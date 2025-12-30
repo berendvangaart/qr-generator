@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+git.ignore
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Build artifacts
+qr-generator
+*.exe
+
+# Data and output
+data/
+*.png
+*.jpg
+*.jpeg
+
+# Documentation
+README.md
+CLAUDE.md
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Misc
+.DS_Store
